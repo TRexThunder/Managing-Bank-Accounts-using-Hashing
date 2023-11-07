@@ -7,5 +7,5 @@ Course Project (COL106) under Prof. Subodh Sharma [August 2023]: Maintained a re
 1. void addTransaction(string id, int count): Adds a transaction of count value (can be positive or negative) to the account specified by the id.
 1. bool doesExist(string id): Checks if an account with the given id exists in the database.
 1. int databaseSize(): Returns the total number of accounts currently stored in the database.
-1. int hash(string id) This function computes the hash value for the given id.
-1. bool delete(string id) This function deletes the key stored in the database.
+1. int hash(string id): This function computes the hash value for the given id.
+1. bool delete(string id): This function deletes the key stored in the database.
