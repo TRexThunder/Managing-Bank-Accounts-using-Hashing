@@ -1,5 +1,5 @@
 # Managing-Bank-Accounts-using-Hashing
-Course Project (COL106) under Prof. Subodh Sharma [August 2023]: Maintained a reliable hashmap to manage a vast array of bank accounts by implementing well-optimized hash functions and collision resolution methods such as chaining, linear probing, quadratic probing and cubic probing.
+Course Project (COL106): Maintained a reliable hashmap to manage a vast array of bank accounts by implementing well-optimized hash functions and collision resolution methods such as chaining, linear probing, quadratic probing and cubic probing.
 ## Description of Functions
 1. void createAccount(string id, int count): Creates a new account with the given id and initial count value.
 1. vector<int> getTopK(int k): Retrieves the top k balances values from the database.
